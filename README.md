@@ -1,7 +1,7 @@
 # Mobile Challenges
 
-![Last Commit Date Shield Badge](https://img.shields.io/github/last-commit/TomiwaAribisala-git/mobile-challenges?color=F25A70&logo=github&style=for-the-badge)
-![Contributors Shield Badge](https://img.shields.io/github/contributors-anon/TomiwaAribisala-git/mobile-challenges?color=F25A70&logo=github&style=for-the-badge)
+![Last Commit Date Shield Badge](https://img.shields.io/github/last-commit/CollabChallenges/mobile-challenges?color=F25A70&logo=github&style=for-the-badge)
+![Contributors Shield Badge](https://img.shields.io/github/contributors-anon/CollabChallenges/mobile-challenges?color=F25A70&logo=github&style=for-the-badge)
 
 Want to test your knowledge using real jobs challenges? Here is a public list of open-source mobile challenges from jobs around the world.
 
