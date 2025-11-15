@@ -9,7 +9,7 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
-| :us: | [Contra](https://contra.com) | Node.JS, TypeScript, React, GraphQL, and PostgreSQL | [Code →](https://github.com/contra/contra-interview-assessment)
+| :ca: | [Paytm Labs](http://paytmlabs.com/) | Java/Kotlin, Swift | [Code →](https://github.com/PaytmLabs/MobileChallenge)
 
 ## Inspiration
 
