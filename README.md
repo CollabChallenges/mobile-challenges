@@ -9,7 +9,7 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
-| :ca: | [Paytm Labs](http://paytmlabs.com/) | Java/Kotlin, Swift | [Code →](https://github.com/PaytmLabs/MobileChallenge)
+| :canada: | [Paytm Labs](http://paytmlabs.com/) | Java/Kotlin, Swift | [Code →](https://github.com/PaytmLabs/MobileChallenge)
 
 ## Inspiration
 
