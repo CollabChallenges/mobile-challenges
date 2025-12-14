@@ -10,6 +10,8 @@ Feel free to contribute! Only open-source challenges please!
 | | Company | Stack | Test
 |--|--|--|--
 | :canada: | [Paytm Labs](http://paytmlabs.com/) | Java/Kotlin, Swift | [Code →](https://github.com/PaytmLabs/MobileChallenge)
+| :us: | [Busbud](https://www.busbud.com/en) | Any Mobile Language | [Code →](https://github.com/busbud/coding-challenge-native-a)
+| :us: | [Busbud](https://www.busbud.com/en) | Any Mobile Language | [Code →](https://github.com/busbud/coding-challenge-native-b)
 
 ## Inspiration
 
